@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20ec92aa06a174ff68df12957dbb45cf",
+    "revision": "871b8aca9ff8513481691c915b4760b7",
     "url": "/infox/index.html"
   },
   {
-    "revision": "8112c388c5229267e825",
-    "url": "/infox/static/css/main.848c8bc1.chunk.css"
+    "revision": "75b9a9236b7259d8a886",
+    "url": "/infox/static/css/main.5fa6326d.chunk.css"
   },
   {
-    "revision": "0aedc062ac8803c84911",
-    "url": "/infox/static/js/2.70f6be52.chunk.js"
+    "revision": "ac7131ee085eff24e5e1",
+    "url": "/infox/static/js/2.fa69ad59.chunk.js"
   },
   {
-    "revision": "8112c388c5229267e825",
-    "url": "/infox/static/js/main.8400c46d.chunk.js"
+    "revision": "75b9a9236b7259d8a886",
+    "url": "/infox/static/js/main.02ae3e34.chunk.js"
   },
   {
     "revision": "7d1345525dae109dfd9b",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "95ee688c142b5746c7634ee60a9262b9",
     "url": "/infox/static/media/24-hours-support.95ee688c.svg"
+  },
+  {
+    "revision": "82a272dc025417c54aa81c9fcfd016ca",
+    "url": "/infox/static/media/arrow-full.82a272dc.svg"
   },
   {
     "revision": "a5f6a8af8ee0e38bbabf6899b93a4b11",
@@ -62,6 +66,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81ca3a964ac0ee71edace130b320c34b",
     "url": "/infox/static/media/facebook.81ca3a96.svg"
+  },
+  {
+    "revision": "537e6a0d6ba23b5e5582a13d2649a44a",
+    "url": "/infox/static/media/icon_canalisation.537e6a0d.svg"
+  },
+  {
+    "revision": "bd72e51f96a6a3fa794d33c795d370d3",
+    "url": "/infox/static/media/icon_cold water.bd72e51f.svg"
   },
   {
     "revision": "70eefe969a41e8e3f5d4bbdbaff41a1e",
@@ -194,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "58fd4eade9a1068674d5364146d63243",
     "url": "/infox/static/media/quickMenuBackground-thirdIcon.58fd4ead.svg"
+  },
+  {
+    "revision": "a38c497c15432503cc2a87c687444446",
+    "url": "/infox/static/media/search.a38c497c.svg"
   },
   {
     "revision": "0289a9127031eb1523b6bf0c8d934b69",
