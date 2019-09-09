@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/infox/static/css/main.33ba879f.chunk.css",
+    "main.css": "/infox/static/css/main.b538459d.chunk.css",
     "main.js": "/infox/static/js/main.06188e6b.chunk.js",
     "main.js.map": "/infox/static/js/main.06188e6b.chunk.js.map",
     "runtime~main.js": "/infox/static/js/runtime~main.0d890961.js",
@@ -8,9 +8,9 @@
     "static/js/2.b7035df5.chunk.js": "/infox/static/js/2.b7035df5.chunk.js",
     "static/js/2.b7035df5.chunk.js.map": "/infox/static/js/2.b7035df5.chunk.js.map",
     "index.html": "/infox/index.html",
-    "precache-manifest.51c8f0f81e21667565cb8a95425b2318.js": "/infox/precache-manifest.51c8f0f81e21667565cb8a95425b2318.js",
+    "precache-manifest.17d972538a4cfc3bae462aa923e37d54.js": "/infox/precache-manifest.17d972538a4cfc3bae462aa923e37d54.js",
     "service-worker.js": "/infox/service-worker.js",
-    "static/css/main.33ba879f.chunk.css.map": "/infox/static/css/main.33ba879f.chunk.css.map",
+    "static/css/main.b538459d.chunk.css.map": "/infox/static/css/main.b538459d.chunk.css.map",
     "static/media/24-hours-support.svg": "/infox/static/media/24-hours-support.95ee688c.svg",
     "static/media/LogoCCT.png": "/infox/static/media/LogoCCT.7e010074.png",
     "static/media/LogoCCT.jp2": "/infox/static/media/LogoCCT.85a99f94.jp2",
