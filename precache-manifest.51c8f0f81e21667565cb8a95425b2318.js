@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "871b8aca9ff8513481691c915b4760b7",
+    "revision": "97cf8175c512f2af54fbb92c39765171",
     "url": "/infox/index.html"
   },
   {
-    "revision": "75b9a9236b7259d8a886",
-    "url": "/infox/static/css/main.5fa6326d.chunk.css"
+    "revision": "8f5d15759f9a2e3efcb1",
+    "url": "/infox/static/css/main.33ba879f.chunk.css"
   },
   {
-    "revision": "ac7131ee085eff24e5e1",
-    "url": "/infox/static/js/2.fa69ad59.chunk.js"
+    "revision": "17226bfab4b679bee75a",
+    "url": "/infox/static/js/2.b7035df5.chunk.js"
   },
   {
-    "revision": "75b9a9236b7259d8a886",
-    "url": "/infox/static/js/main.02ae3e34.chunk.js"
+    "revision": "8f5d15759f9a2e3efcb1",
+    "url": "/infox/static/js/main.06188e6b.chunk.js"
   },
   {
     "revision": "7d1345525dae109dfd9b",
@@ -22,6 +22,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "95ee688c142b5746c7634ee60a9262b9",
     "url": "/infox/static/media/24-hours-support.95ee688c.svg"
+  },
+  {
+    "revision": "7e0100740d523d6627fab00aef0929a8",
+    "url": "/infox/static/media/LogoCCT.7e010074.png"
+  },
+  {
+    "revision": "85a99f948d526ac3ea3310f96001aaa4",
+    "url": "/infox/static/media/LogoCCT.85a99f94.jp2"
+  },
+  {
+    "revision": "9a2d8cfc493b9a0bd053eda11d23d0d9",
+    "url": "/infox/static/media/LogoCCT.9a2d8cfc.webp"
   },
   {
     "revision": "82a272dc025417c54aa81c9fcfd016ca",
@@ -96,6 +108,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/lk-press.a3d20697.svg"
   },
   {
+    "revision": "a32826843be1a80d78d602645005645f",
+    "url": "/infox/static/media/location.a3282684.svg"
+  },
+  {
     "revision": "9ac0eff4b9ae3b5baf824a0819b454be",
     "url": "/infox/static/media/logo_mob.9ac0eff4.jp2"
   },
@@ -126,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "beedfd3545d0b2ef9d840f8841e67c7d",
     "url": "/infox/static/media/logo_uk.beedfd35.png"
+  },
+  {
+    "revision": "82765da12a466ca6b93de1ff51c798b4",
+    "url": "/infox/static/media/mailBlue.82765da1.svg"
   },
   {
     "revision": "115a176042fb1c026be009e965cb1b3b",
@@ -218,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ccd38cb8a5bc4f0feafcd1a73ee9422f",
     "url": "/infox/static/media/telegram.ccd38cb8.svg"
+  },
+  {
+    "revision": "edfa87998c814003b6583173c8878817",
+    "url": "/infox/static/media/time.edfa8799.svg"
   },
   {
     "revision": "598bd32e32ffed42cf2d5921dd739b39",
