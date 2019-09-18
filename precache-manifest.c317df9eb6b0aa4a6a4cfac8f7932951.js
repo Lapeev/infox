@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6abb6efe3bffa4bf00d62ed0f227c7bb",
+    "revision": "1e301f0f034a3dcc5d4fa39e3d97ccb6",
     "url": "/infox/index.html"
   },
   {
-    "revision": "8d566c4604418e7f418c",
-    "url": "/infox/static/css/main.5d0e152b.chunk.css"
+    "revision": "1ecfb273d67dbc430d86",
+    "url": "/infox/static/css/main.56c5a3d8.chunk.css"
   },
   {
     "revision": "2ab97f236425b08ee29c",
     "url": "/infox/static/js/2.cfc4415e.chunk.js"
   },
   {
-    "revision": "8d566c4604418e7f418c",
-    "url": "/infox/static/js/main.f7ec8745.chunk.js"
+    "revision": "1ecfb273d67dbc430d86",
+    "url": "/infox/static/js/main.20f2525b.chunk.js"
   },
   {
     "revision": "7d1345525dae109dfd9b",
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/life.4f569d0e.svg"
   },
   {
-    "revision": "5ddf8f7bd9788c1234192ec8e40ae78e",
-    "url": "/infox/static/media/lk-citizenry.5ddf8f7b.svg"
+    "revision": "8ed5d284adaf0c09dfcc2f5905f518ca",
+    "url": "/infox/static/media/lk-citizenry.8ed5d284.svg"
   },
   {
     "revision": "803ee90be0f5993b7b3d4b4e0f2f6d08",
