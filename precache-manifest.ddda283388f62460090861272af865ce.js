@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "109d1fc356a392c5e629f6316d218f6e",
+    "revision": "19b47a7873212a2235656124ce840a3d",
     "url": "/infox/index.html"
   },
   {
-    "revision": "1875ad5a003acea18d27",
-    "url": "/infox/static/css/main.68f3d624.chunk.css"
+    "revision": "2174cfc0b44673160397",
+    "url": "/infox/static/css/main.26ca331d.chunk.css"
   },
   {
-    "revision": "d25b13e84af1b8219785",
-    "url": "/infox/static/js/2.5e7c887d.chunk.js"
+    "revision": "7a01d4a0a18ebc733514",
+    "url": "/infox/static/js/2.c78cf69b.chunk.js"
   },
   {
-    "revision": "1875ad5a003acea18d27",
-    "url": "/infox/static/js/main.109a6420.chunk.js"
+    "revision": "2174cfc0b44673160397",
+    "url": "/infox/static/js/main.e1e7dc9d.chunk.js"
   },
   {
     "revision": "7d1345525dae109dfd9b",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "82a272dc025417c54aa81c9fcfd016ca",
     "url": "/infox/static/media/arrow-full.82a272dc.svg"
+  },
+  {
+    "revision": "f1e65968c8704c6d61d96b6cad47e4e0",
+    "url": "/infox/static/media/arrow-left.f1e65968.svg"
   },
   {
     "revision": "a5f6a8af8ee0e38bbabf6899b93a4b11",
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81ca3a964ac0ee71edace130b320c34b",
     "url": "/infox/static/media/facebook.81ca3a96.svg"
+  },
+  {
+    "revision": "dedfd402716e0121a2cc856e1b840dd4",
+    "url": "/infox/static/media/facebookArticle.dedfd402.svg"
   },
   {
     "revision": "537e6a0d6ba23b5e5582a13d2649a44a",
@@ -244,8 +252,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/telegram.ccd38cb8.svg"
   },
   {
+    "revision": "bbfe29e085af83811dfe476f75a6e575",
+    "url": "/infox/static/media/telegramArticle.bbfe29e0.svg"
+  },
+  {
     "revision": "edfa87998c814003b6583173c8878817",
     "url": "/infox/static/media/time.edfa8799.svg"
+  },
+  {
+    "revision": "ee63cba9687d52584508e450f2afcbd5",
+    "url": "/infox/static/media/twitterArticle.ee63cba9.svg"
   },
   {
     "revision": "598bd32e32ffed42cf2d5921dd739b39",
@@ -254,6 +270,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8564e39ab70226c581876379d3d4a51f",
     "url": "/infox/static/media/viber.8564e39a.svg"
+  },
+  {
+    "revision": "c4299e8ac2a524f013179c0a1dd4a143",
+    "url": "/infox/static/media/viberArticle.c4299e8a.svg"
   },
   {
     "revision": "33d1f90e5dbd17271e19a7bfa9f71f0b",
