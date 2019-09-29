@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19b47a7873212a2235656124ce840a3d",
+    "revision": "31529c413b8e67c65b92980ff56b99b6",
     "url": "/infox/index.html"
   },
   {
-    "revision": "2174cfc0b44673160397",
-    "url": "/infox/static/css/main.26ca331d.chunk.css"
+    "revision": "66a6a5bb5f3cc4346617",
+    "url": "/infox/static/css/main.9873d5d8.chunk.css"
   },
   {
-    "revision": "7a01d4a0a18ebc733514",
-    "url": "/infox/static/js/2.c78cf69b.chunk.js"
+    "revision": "fceab6350152f9d0c518",
+    "url": "/infox/static/js/2.77125ae5.chunk.js"
   },
   {
-    "revision": "2174cfc0b44673160397",
-    "url": "/infox/static/js/main.e1e7dc9d.chunk.js"
+    "revision": "66a6a5bb5f3cc4346617",
+    "url": "/infox/static/js/main.2ba87f2a.chunk.js"
   },
   {
     "revision": "7d1345525dae109dfd9b",
@@ -98,6 +98,102 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd72e51f96a6a3fa794d33c795d370d3",
     "url": "/infox/static/media/icon_cold water.bd72e51f.svg"
+  },
+  {
+    "revision": "c19ea2b590a291d1406af80332fa1fa9",
+    "url": "/infox/static/media/image.c19ea2b5.jp2"
+  },
+  {
+    "revision": "d898e30b29a046535be5aec60148b47d",
+    "url": "/infox/static/media/image.d898e30b.jpg"
+  },
+  {
+    "revision": "f39ec927d1928ca6d3059660a049e35f",
+    "url": "/infox/static/media/image.f39ec927.webp"
+  },
+  {
+    "revision": "9c835876fdc850fd12ce586039a635fa",
+    "url": "/infox/static/media/image2.9c835876.jp2"
+  },
+  {
+    "revision": "ba20cd4683644deac7b3ba2161ea3d05",
+    "url": "/infox/static/media/image2.ba20cd46.jpg"
+  },
+  {
+    "revision": "f09890321f574c770a5470510d771d69",
+    "url": "/infox/static/media/image2.f0989032.webp"
+  },
+  {
+    "revision": "0c85219ced4e51ce2d8084223ccdda8b",
+    "url": "/infox/static/media/image3.0c85219c.webp"
+  },
+  {
+    "revision": "66d4d4f58c78d153326cd2b3a39bd5d7",
+    "url": "/infox/static/media/image3.66d4d4f5.jp2"
+  },
+  {
+    "revision": "c361e1cfc7ed5f3fdd821ee838f2fa74",
+    "url": "/infox/static/media/image3.c361e1cf.jpg"
+  },
+  {
+    "revision": "5970cf8af44e0b9a91a671258d09108e",
+    "url": "/infox/static/media/image4.5970cf8a.jpg"
+  },
+  {
+    "revision": "77e69d64667867b6d7c5297f629a1df9",
+    "url": "/infox/static/media/image4.77e69d64.webp"
+  },
+  {
+    "revision": "cc887a8383e2923bd17dac93a3eedd97",
+    "url": "/infox/static/media/image4.cc887a83.jp2"
+  },
+  {
+    "revision": "274b65ae2b3042e98dffb9fb108924bb",
+    "url": "/infox/static/media/image5.274b65ae.jp2"
+  },
+  {
+    "revision": "a714b8f29cc67c497f53928c4019aea5",
+    "url": "/infox/static/media/image5.a714b8f2.jpg"
+  },
+  {
+    "revision": "e5f00a190b682b2e43cb6524103ee8d9",
+    "url": "/infox/static/media/image5.e5f00a19.webp"
+  },
+  {
+    "revision": "49d429e9212b3bc91e938bc3a5a43d0e",
+    "url": "/infox/static/media/image6.49d429e9.webp"
+  },
+  {
+    "revision": "a68aa3de6669d85002239aef841ee92c",
+    "url": "/infox/static/media/image6.a68aa3de.jpg"
+  },
+  {
+    "revision": "e2f93aa002e689cfbfafb58d1557a058",
+    "url": "/infox/static/media/image6.e2f93aa0.jp2"
+  },
+  {
+    "revision": "307e2fafaf19f5afa4b73723197ca2bf",
+    "url": "/infox/static/media/image71.307e2faf.webp"
+  },
+  {
+    "revision": "d802986e2ccae335a503bd7a24f7e920",
+    "url": "/infox/static/media/image71.d802986e.jpg"
+  },
+  {
+    "revision": "ec823c9f5f5347836ccf8699162deb2a",
+    "url": "/infox/static/media/image71.ec823c9f.jp2"
+  },
+  {
+    "revision": "285789c88804405645eadb46ede746f4",
+    "url": "/infox/static/media/image81.285789c8.webp"
+  },
+  {
+    "revision": "5bf533e2a49e0ff0a75564ab13bbe279",
+    "url": "/infox/static/media/image81.5bf533e2.jp2"
+  },
+  {
+    "revision": "fea0619e0275a73abde2f70a9d23ec82",
+    "url": "/infox/static/media/image81.fea0619e.jpg"
   },
   {
     "revision": "70eefe969a41e8e3f5d4bbdbaff41a1e",
