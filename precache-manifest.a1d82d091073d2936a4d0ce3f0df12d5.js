@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddbb25a664e8f65897747d5dad298467",
+    "revision": "e0a434d81045c70cff9e01dcde082c06",
     "url": "/infox/index.html"
   },
   {
-    "revision": "1a83426e55b31250a36e",
-    "url": "/infox/static/css/main.e4b8157e.chunk.css"
+    "revision": "df48947e0ac14602328d",
+    "url": "/infox/static/css/main.82e5e2f5.chunk.css"
   },
   {
-    "revision": "fceab6350152f9d0c518",
-    "url": "/infox/static/js/2.77125ae5.chunk.js"
+    "revision": "3197823cb407edfde091",
+    "url": "/infox/static/js/2.57a8e04e.chunk.js"
   },
   {
-    "revision": "1a83426e55b31250a36e",
-    "url": "/infox/static/js/main.fb254f72.chunk.js"
+    "revision": "df48947e0ac14602328d",
+    "url": "/infox/static/js/main.750eddb8.chunk.js"
   },
   {
-    "revision": "7d1345525dae109dfd9b",
-    "url": "/infox/static/js/runtime~main.0d890961.js"
+    "revision": "454268b7b82270758d3b",
+    "url": "/infox/static/js/runtime-main.42771894.js"
   },
   {
     "revision": "95ee688c142b5746c7634ee60a9262b9",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9a2d8cfc493b9a0bd053eda11d23d0d9",
     "url": "/infox/static/media/LogoCCT.9a2d8cfc.webp"
+  },
+  {
+    "revision": "4d7f0d42b9ba151894f9b18038f382d8",
+    "url": "/infox/static/media/arrow-bottom.4d7f0d42.svg"
   },
   {
     "revision": "82a272dc025417c54aa81c9fcfd016ca",
@@ -80,6 +84,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/background-bubles.e53e456d.jp2"
   },
   {
+    "revision": "010845e59fa3ece6c43d3a83f3e6ad99",
+    "url": "/infox/static/media/buttonPay.010845e5.svg"
+  },
+  {
+    "revision": "a1d21d1c1703c4fb1d35ebb5e4eeae67",
+    "url": "/infox/static/media/contacts.a1d21d1c.svg"
+  },
+  {
     "revision": "03ad29fd9b39b08fb51d83f2c2b05029",
     "url": "/infox/static/media/e-mail.03ad29fd.svg"
   },
@@ -92,12 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/facebookArticle.dedfd402.svg"
   },
   {
+    "revision": "50cd69bacfc7ff22879eb77cf39f45ea",
+    "url": "/infox/static/media/help.50cd69ba.svg"
+  },
+  {
     "revision": "537e6a0d6ba23b5e5582a13d2649a44a",
     "url": "/infox/static/media/icon_canalisation.537e6a0d.svg"
   },
   {
     "revision": "bd72e51f96a6a3fa794d33c795d370d3",
     "url": "/infox/static/media/icon_cold water.bd72e51f.svg"
+  },
+  {
+    "revision": "03deae07c4f2dbdc01c669dfbbf7535f",
+    "url": "/infox/static/media/icon_user.03deae07.svg"
   },
   {
     "revision": "c19ea2b590a291d1406af80332fa1fa9",
@@ -220,6 +240,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/location.a3282684.svg"
   },
   {
+    "revision": "0bbea31a13ca4f907ead4832bf4246c3",
+    "url": "/infox/static/media/loginError.0bbea31a.svg"
+  },
+  {
     "revision": "9ac0eff4b9ae3b5baf824a0819b454be",
     "url": "/infox/static/media/logo_mob.9ac0eff4.jp2"
   },
@@ -256,6 +280,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/mailBlue.82765da1.svg"
   },
   {
+    "revision": "6bf21b540004b650d7505f056431fbac",
+    "url": "/infox/static/media/megaphone.6bf21b54.svg"
+  },
+  {
+    "revision": "bf2509e063135a9b67d651410ae42a90",
+    "url": "/infox/static/media/news.bf2509e0.svg"
+  },
+  {
     "revision": "115a176042fb1c026be009e965cb1b3b",
     "url": "/infox/static/media/officeBackgrund.115a1760.jp2"
   },
@@ -268,8 +300,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infox/static/media/officeBackgrund.f2e78318.webp"
   },
   {
+    "revision": "fe9db720f9a87c0ebb565b990ff5caa6",
+    "url": "/infox/static/media/officeExit.fe9db720.svg"
+  },
+  {
     "revision": "100a24fc1e4f86e0577f45249ab4bcba",
     "url": "/infox/static/media/password.100a24fc.svg"
+  },
+  {
+    "revision": "0931aa3c399c5ee0ad867debd2dab27b",
+    "url": "/infox/static/media/public.0931aa3c.svg"
   },
   {
     "revision": "37b1050e41436b612a24609935b5c0f9",
@@ -334,6 +374,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "58fd4eade9a1068674d5364146d63243",
     "url": "/infox/static/media/quickMenuBackground-thirdIcon.58fd4ead.svg"
+  },
+  {
+    "revision": "e60ca34b0f6c4064b11e0fe6c6ba29bf",
+    "url": "/infox/static/media/reports.e60ca34b.svg"
   },
   {
     "revision": "a38c497c15432503cc2a87c687444446",
