@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/infox/static/css/main.ad4b72d5.chunk.css",
+    "main.css": "/infox/static/css/main.7783deb9.chunk.css",
     "main.js": "/infox/static/js/main.fe41574a.chunk.js",
     "main.js.map": "/infox/static/js/main.fe41574a.chunk.js.map",
     "runtime-main.js": "/infox/static/js/runtime-main.42771894.js",
@@ -8,9 +8,9 @@
     "static/js/2.57a8e04e.chunk.js": "/infox/static/js/2.57a8e04e.chunk.js",
     "static/js/2.57a8e04e.chunk.js.map": "/infox/static/js/2.57a8e04e.chunk.js.map",
     "index.html": "/infox/index.html",
-    "precache-manifest.e5f12519b17461f99c8c5fa423009e57.js": "/infox/precache-manifest.e5f12519b17461f99c8c5fa423009e57.js",
+    "precache-manifest.9220e3565cb0a4a39580400e393fd936.js": "/infox/precache-manifest.9220e3565cb0a4a39580400e393fd936.js",
     "service-worker.js": "/infox/service-worker.js",
-    "static/css/main.ad4b72d5.chunk.css.map": "/infox/static/css/main.ad4b72d5.chunk.css.map",
+    "static/css/main.7783deb9.chunk.css.map": "/infox/static/css/main.7783deb9.chunk.css.map",
     "static/media/24-hours-support.svg": "/infox/static/media/24-hours-support.95ee688c.svg",
     "static/media/LogoCCT.png": "/infox/static/media/LogoCCT.7e010074.png",
     "static/media/LogoCCT.jp2": "/infox/static/media/LogoCCT.85a99f94.jp2",
@@ -94,7 +94,7 @@
   "entrypoints": [
     "static/js/runtime-main.42771894.js",
     "static/js/2.57a8e04e.chunk.js",
-    "static/css/main.ad4b72d5.chunk.css",
+    "static/css/main.7783deb9.chunk.css",
     "static/js/main.fe41574a.chunk.js"
   ]
 }
