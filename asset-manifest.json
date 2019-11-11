@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/infox/static/css/main.b244dc45.chunk.css",
-    "main.js": "/infox/static/js/main.14b9568b.chunk.js",
-    "main.js.map": "/infox/static/js/main.14b9568b.chunk.js.map",
+    "main.js": "/infox/static/js/main.6e9bced3.chunk.js",
+    "main.js.map": "/infox/static/js/main.6e9bced3.chunk.js.map",
     "runtime-main.js": "/infox/static/js/runtime-main.42771894.js",
     "runtime-main.js.map": "/infox/static/js/runtime-main.42771894.js.map",
     "static/js/2.e1b7a4a1.chunk.js": "/infox/static/js/2.e1b7a4a1.chunk.js",
     "static/js/2.e1b7a4a1.chunk.js.map": "/infox/static/js/2.e1b7a4a1.chunk.js.map",
     "index.html": "/infox/index.html",
-    "precache-manifest.733d68dfa7f35f4597279fe7b7abab72.js": "/infox/precache-manifest.733d68dfa7f35f4597279fe7b7abab72.js",
+    "precache-manifest.04f79731089694f1736a4430059091e7.js": "/infox/precache-manifest.04f79731089694f1736a4430059091e7.js",
     "service-worker.js": "/infox/service-worker.js",
     "static/css/main.b244dc45.chunk.css.map": "/infox/static/css/main.b244dc45.chunk.css.map",
     "static/media/24-hours-support.svg": "/infox/static/media/24-hours-support.95ee688c.svg",
@@ -95,6 +95,6 @@
     "static/js/runtime-main.42771894.js",
     "static/js/2.e1b7a4a1.chunk.js",
     "static/css/main.b244dc45.chunk.css",
-    "static/js/main.14b9568b.chunk.js"
+    "static/js/main.6e9bced3.chunk.js"
   ]
 }
