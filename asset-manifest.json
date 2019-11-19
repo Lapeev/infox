@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/infox/static/css/main.527cb3fb.chunk.css",
-    "main.js": "/infox/static/js/main.833ebde4.chunk.js",
-    "main.js.map": "/infox/static/js/main.833ebde4.chunk.js.map",
+    "main.css": "/infox/static/css/main.8bea023c.chunk.css",
+    "main.js": "/infox/static/js/main.e70c453c.chunk.js",
+    "main.js.map": "/infox/static/js/main.e70c453c.chunk.js.map",
     "runtime-main.js": "/infox/static/js/runtime-main.42771894.js",
     "runtime-main.js.map": "/infox/static/js/runtime-main.42771894.js.map",
-    "static/js/2.e1b7a4a1.chunk.js": "/infox/static/js/2.e1b7a4a1.chunk.js",
-    "static/js/2.e1b7a4a1.chunk.js.map": "/infox/static/js/2.e1b7a4a1.chunk.js.map",
+    "static/js/2.9a5806c1.chunk.js": "/infox/static/js/2.9a5806c1.chunk.js",
+    "static/js/2.9a5806c1.chunk.js.map": "/infox/static/js/2.9a5806c1.chunk.js.map",
     "index.html": "/infox/index.html",
-    "precache-manifest.070b0489a379f76b7c3c31f07efd31e8.js": "/infox/precache-manifest.070b0489a379f76b7c3c31f07efd31e8.js",
+    "precache-manifest.3516143cc060288462c9875ff6b4ea28.js": "/infox/precache-manifest.3516143cc060288462c9875ff6b4ea28.js",
     "service-worker.js": "/infox/service-worker.js",
-    "static/css/main.527cb3fb.chunk.css.map": "/infox/static/css/main.527cb3fb.chunk.css.map",
+    "static/css/main.8bea023c.chunk.css.map": "/infox/static/css/main.8bea023c.chunk.css.map",
     "static/media/24-hours-support.svg": "/infox/static/media/24-hours-support.95ee688c.svg",
     "static/media/LogoCCT.png": "/infox/static/media/LogoCCT.7e010074.png",
     "static/media/LogoCCT.jp2": "/infox/static/media/LogoCCT.85a99f94.jp2",
@@ -21,7 +21,7 @@
     "static/media/arrow-right-copy.svg": "/infox/static/media/arrow-right-copy.a5f6a8af.svg",
     "static/media/arrow-right-full.svg": "/infox/static/media/arrow-right-full.fb18747a.svg",
     "static/media/arrow-right.svg": "/infox/static/media/arrow-right.54278d20.svg",
-    "static/media/first100vh.module.css": "/infox/static/media/background-bubles-light.beafc065.jp2",
+    "static/media/pageWithPress.module.css": "/infox/static/media/background-bubles-light.beafc065.jp2",
     "static/media/resetGlobals.css": "/infox/static/media/background-bubles.e53e456d.jp2",
     "static/media/buttonPay.svg": "/infox/static/media/buttonPay.010845e5.svg",
     "static/media/contacts.svg": "/infox/static/media/contacts.a1d21d1c.svg",
@@ -93,8 +93,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.42771894.js",
-    "static/js/2.e1b7a4a1.chunk.js",
-    "static/css/main.527cb3fb.chunk.css",
-    "static/js/main.833ebde4.chunk.js"
+    "static/js/2.9a5806c1.chunk.js",
+    "static/css/main.8bea023c.chunk.css",
+    "static/js/main.e70c453c.chunk.js"
   ]
 }
